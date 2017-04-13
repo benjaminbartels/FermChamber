@@ -1,0 +1,16 @@
+{
+  "name": "ferm-chamber-monitor",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-rest-client": "~1.4.3",
+    "pi-gpio": "~0.0.7"
+  }
+}
+
+
+
+
